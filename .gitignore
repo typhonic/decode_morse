@@ -1,0 +1,10 @@
+# files to ignore
+*.py[cod]
+*.com
+.coverage
+.D*
+__pycache__
+# Vim files
+*.swp
+*.swo
+codelistpickle
